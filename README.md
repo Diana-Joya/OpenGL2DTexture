@@ -1,6 +1,6 @@
 # OpenGL2DTexture
 
-OpenGL2DTexture utilize vertex and fragment shaders to render a 2d texture generated from a .png file to the screen. OpenGL2DTexture was programmed using C++ and OpenGL and utilizes GL/GLEW for OS compatibility. By default, OpenGL2DTexture renders the bears.png image located in the res/textures folder, by using 2 triangles generated using vertex and index buffers that can be modified through geometric transformations using glm and ImGui. 
+OpenGL2DTexture utilizes vertex and fragment shaders to render a 2d texture generated from a .png file to the screen. OpenGL2DTexture was programmed using C++ and OpenGL and utilizes GL/GLEW for OS compatibility. By default, OpenGL2DTexture renders the bears.png image located in the res/textures folder, by using 2 triangles generated using vertex and index buffers that can be modified through geometric transformations using glm and ImGui. 
 
 This C++ & OpenGL project uses the following free libraries:
 - stb: https://github.com/nothings/stb
